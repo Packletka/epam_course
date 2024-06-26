@@ -54,9 +54,6 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 
 
+Я все удалил и щас что-то буду добавлять
 
-Делаем грязь в файле и смотрим, что будет
-
-Решаем конфликт, но уже в ветке feature
-
-FOR TAG ONLY
+[print(i**2) for i in range(1, 6)]
