@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files_qrc/karpa.png</file>
+        <file>files_qrc/aziava.png</file>
+        <file>files_qrc/zubovich.png</file>
+        <file>files_qrc/Holiday - Green Day.m4a</file>
+        <file>files_qrc/bita.png</file>
+        <file>files_qrc/aziava_with_blood_1.png</file>
+        <file>files_qrc/aziava_with_blood_2.png</file>
+        <file>files_qrc/aziava_with_blood_3.png</file>
+        <file>files_qrc/hearse.png</file>
+        <file>files_qrc/wallpaper.jpg</file>
+        <file>files_qrc/zubovich_with_blood_3.png</file>
+        <file>files_qrc/zubovich_with_blood_2.png</file>
+        <file>files_qrc/zubovich_with_blood_1.png</file>
+        <file>files_qrc/karpa_with_blood_1.png</file>
+        <file>files_qrc/karpa_with_blood_2.png</file>
+        <file>files_qrc/karpa_with_blood_3.png</file>
+    </qresource>
+</RCC>

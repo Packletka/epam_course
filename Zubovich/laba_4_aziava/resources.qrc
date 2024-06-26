@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/100.gif</file>
+        <file>resources/negr.jpeg</file>
+        <file>resources/chasi_3.png</file>
+        <file>resources/chasi_1.jpg</file>
+        <file>resources/chasi_2.png</file>
+    </qresource>
+</RCC>
