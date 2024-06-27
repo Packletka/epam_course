@@ -1,23 +1,26 @@
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
-	<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; margin: 0; padding: 0;">
-	<h1 style="margin-top: 20px; font-size: 24px; color: #007bff;">24.06.2024</h1>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Познакомился с компанией Softclub</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Начал изучение курса "Version control with Git"</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Получил представление о том, что представляет собой учебная практика</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Выполнил дневник для УП</p>
-	<h1 style="margin-top: 20px; font-size: 24px; color: #007bff;">25.06.2024</h1>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Полностью прошел курс "Version control with Git"</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Отправил все лабораторные работы за семестр на свой репозиторий</p>
-	    <h1 style="margin-top: 20px; font-size: 24px; color: #007bff;">26.06.2024</h1>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Произвел Unit-тестирование в проекте "Calculator"</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Начал разрабатывать итоговый отчет</p>
-	    <p style="margin-left: 20px; font-size: 16px; color: #d7b65d;">· Начал разрабатывать проект  в QT для редактирования таблиц в Excel</p>
-	</body>
-</html>
+# <div style="color: #6ca7aa">***Мини-отчеты на каждый день***</div>
+
+![megumin](https://c4.wallpaperflare.com/wallpaper/281/773/145/anime-anime-girls-kono-subarashii-sekai-ni-shukufuku-wo-megumin-wallpaper-preview.jpg)
+
+
+## <div style="color: #ea8c4b">*24.06.2024* :white_check_mark: </div>
+
++ Познакомился с компанией Softclub
++ Начал изучение курса "Version control with Git" --> [Курс](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
++ Получил представление о том, что представляет собой учебная практика
++ Заполнил дневник для УП
+
+## <div style="color: #ea8c4b">*25.06.2024* :smirk_cat: </div>
++ Полностью прошел курс "Version control with Git"
++ Отправил все лабораторные работы за семестр на свой репозиторий
+
+## <div style="color: #ea8c4b">*26.06.2024* :computer: </div>
++ Произвел Unit-тестирование в проекте "Calculator"
++ Начал разрабатывать итоговый отчет и отчет на 29.06
++ Начал разрабатывать проект в QT для редактирования таблиц(xls, csv, ...)
+
+## <div style="color: #ea8c4b">*27.06.2024* :bar_chart: </div>
++ Написал отчеты по темам, пройденным ранее
++ Закончил разработку проекта на QT для изменения таблиц (xls, csv, ...)
++ Дополнительно сделал Unit-тестирование для своего проекта
 
